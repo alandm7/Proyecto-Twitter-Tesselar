@@ -1,0 +1,250 @@
+
+.divTop {
+    
+    width: auto;
+    height: 52px;
+    background-color: #029cf5;
+    
+}
+.divFirstSectionRow{
+    margin-left: 20px;
+
+}
+.left{
+margin-left: 110px;
+}
+.right{
+    margin-right: 100px;
+}
+
+
+.divBody{
+    background-color: #f33303;
+    
+}
+.divInside{
+    position: relative;
+    height: 100%;
+    box-sizing: inherit;
+    display: block;
+    line-height: 64px;
+   
+    font-weight: normal;
+    box-sizing: inherit;
+}
+
+
+.buttonTwittear {
+background-color: #58CEF2;
+border-color: transparent;
+border: 1px solid #58CEF2;
+border-radius: 100px;
+box-shadow: none;
+cursor: pointer;
+font-size: 14px;
+font-weight: bold;
+line-height: 20px;
+padding: 6px 16px;
+position: relative;
+text-align: center;
+white-space: nowrap;
+transition: none;
+text-transform: none;
+margin-right: 30px;
+
+}
+.buttonTwittear:active{
+    background-color: #58CEF2;
+}
+.buttonTwittear:focus{
+    background-color: #58CEF2;
+}
+
+.inputSearchTwitter{
+   
+    background-color: #f5f8fa !important;
+    border-radius: 200px !important;
+    border: 1px solid #e6ecf0;
+    height: 35px !important;
+    width: 200px !important;
+    box-sizing: border-box;
+    color: black;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.inputContainerCenterFirst{
+    background-color: #fff !important;
+    border-radius:10px !important;
+    
+    width: 83% !important;
+  
+    color: black;
+    font-family: "Segoe UI",Arial,sans-serif;
+    height: 34px !important;
+    margin-left: 15px !important;
+    margin-top: 2px !important;
+    
+    position: absolute !important;
+  
+}
+.imgTheme{
+    width: 60px;
+    height: 130px;
+}
+.col{
+    width: 280px !important;
+}
+
+.classContentMargin{
+   margin-left: 7%;
+   margin-top: 20px;
+}
+.divContainerCenterFisrt{
+    margin-left: 29%;
+    position: absolute !important;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  
+}
+.divContainerCenterFisrtSize{
+    height: 39px !important;
+    width: 560px !important;
+    background-color: #EAF8FD;
+}
+
+
+.classContentMarginSize{
+    height: 400px !important;
+    width: 280px !important;
+    background-color: #EAF8FD;
+    margin-bottom: 200px;
+}
+.containerCenterSecond{
+    margin-left: 29%;
+    position: absolute !important;
+    margin-top: 55px;
+}
+.containerCenterSecondSize{
+
+    width: 560px !important;
+    background-color: #EAF8FD;
+}
+.divContainerRight{
+    margin-left: 72%;
+    position: absolute !important;
+    margin-top: 20px;
+    
+}
+.divContainerRightSize{
+    width: 290px !important;
+    background-color: #EAF8FD;
+}
+
+.card-content{
+    margin-top: 10px !important;
+    height: 140px;
+}
+.cardTitleUser{
+    position: absolute !important;
+    margin-left: 140px !important;
+    margin-top: 4px !important;
+    color: inherit!important;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    
+}.cardTitleUserTweet{
+    position: absolute !important;
+    margin-top: 23px;
+    margin-left: 10px;
+    color: inherit!important;
+    font-weight: bold;
+    font-size: 18x;
+    line-height: 25px;
+}
+.cardSubtitleUser{
+    position: absolute !important;
+    margin-left: 140px !important;
+    margin-top: 24px !important;
+}
+
+.imgCircle{
+    border-radius: 50% !important;
+    width: 90px !important;
+    position: absolute !important;
+    margin-left: 30px;
+    margin-top: 85px;
+}
+.imgCircleCenterFirst{
+    border-radius: 50% !important;
+    width: 30px !important;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 5px;
+ 
+}
+.imgCircleCenterSecond{
+    border-radius: 50% !important;
+    width: 50px !important;
+    position: relative;
+    margin-left: 25px;
+    margin-top: 4%;
+}
+.imgFirstRow{
+    border-radius: 50% !important;
+    width: 40px !important;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 8px;
+   
+}
+.textoTweet{
+    color: #141313a8;
+}
+.textoTweetBody{
+    color: #141313ea;
+    margin-left: 10px;
+}
+.trendTopicsLetter{
+
+    font-size: 20px;
+    color: inherit!important;
+    font-weight: bold;
+    margin-left: 9px;
+    margin-top: 5px;
+    
+    
+}
+.DivBodyTweet{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.divTittleTrendsTopic{
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.textDescriptionTopics{
+    color: #141313a8;
+    margin-left: 12px;
+}
+.buttonFollow{
+    vertical-align: middle;
+    background-color: #fff;
+    color: #1da1f2;
+    border-color: transparent;
+    border: 1px solid #1da1f2;
+    border-radius: 100px;
+    box-shadow: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    transition: none;
+    text-transform: none;
+    margin-right: 30px;
+    margin-top: 23px;
+}
