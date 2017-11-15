@@ -1,6 +1,6 @@
 # Proyect-Twitter
 
-This is the final proyect of the course "web dev intro and best practices", of  Charlie Chauri. Its about make a react web page similar to Twitter.com
+This is the final proyect of the course "web dev intro and best practices", of  Carlos Echauri. Its about make a react web page similar to Twitter.com
 
 
 
@@ -26,34 +26,18 @@ The web Page is divided in 6 components..
 3-. ContainerLeftsSecond
       This container have the information about Trend Topics
 4-. ContainerCenterFirst
-      This container is in the middle of the page, only containr the input of "What´s happening
+      This container is in the middle of the page, only contain the image of the user and the input of "What´s happening"
+5-. ContainerCenterSecond
+      This container have the body of the tweets ( user image, Name, User name, the text of the tweet, and 4 buttons)
+6 ContainerRightFirst
+      This container have the " How to follow" users, of suggestion
 
-## Built With
+      Please open this web page in GOOGLE CHROME
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Alan De Miguel** - * End proyect* - https://github.com/alandm7/Proyecto-Twitter-Tesselar
+.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
